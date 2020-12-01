@@ -1,0 +1,25 @@
+### IDE
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+
+### Work In Progress
+*.wip
+*.wip.*
+
+
+### Libraries
+venv/
+node_modules/
+
+### Logs
+logs/
+
+### Data
+input/*.zip
+input/bengaliai-cv19/
+input_features/
+data_output/models/
+!*/input/*.dvc
